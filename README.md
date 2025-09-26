@@ -7,9 +7,9 @@ El objetivo de este proyecto es proveer una herramienta de estudio biblico que p
 al uso de toolchains de compilacion cruzada o de realizar modificaciones complejas al sistema, usando el framework que proporciona KOReader permitiendo un desarrollo e integracion mucho mas sencilla, asi como su mejora y actualizacion.
 
 Actualmente esta siendo desarrollada como un plugin de KOReader, con miras al futuro de ser una aplicacion stand-alone bajo el framework de KOREader-base con una interfaz limpia y ligera al proposito de BibleTool.
-
+<p align=center>
 <img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/bf21b1e1-471e-4e7f-979e-12a81c3772b3" />
-
+</p>
 
 ## ✨ Características (versión actual)
 
