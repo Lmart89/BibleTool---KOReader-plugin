@@ -29,17 +29,11 @@ Actualmente esta siendo desarrollada como un plugin de KOReader, con miras al fu
 1. Clona o descarga este repositorio.  
 2. Copia la carpeta `bibletool` dentro de tu directorio de plugins de KOReader:
 
-koreader/plugins/bibletool/
-
-yaml
-Copiar código
+koreader/plugins/bibletool.koplugin/
 
 El archivo principal debe quedar como:
 
-koreader/plugins/bibletool/main.lua
-
-markdown
-Copiar código
+koreader/plugins/bibletool.koplugin/main.lua
 
 3. Reinicia KOReader.  
 4. Abre el **menú principal** y deberías ver la nueva opción: **BibleTool**.
@@ -72,11 +66,6 @@ Estructura del plugin:
 bibletool/
 ├── main.lua # Plugin principal
 
-yaml
-Copiar código
-
----
-
 ## 🤝 Contribuciones
 
 ¡Toda ayuda es bienvenida! 🙌  
@@ -103,10 +92,7 @@ Abre un Pull Request.
  Exportar favoritos y notas en formatos de texto.
 
 📜 Licencia
-Este proyecto está liberado bajo la MIT License.
+Este proyecto está liberado bajo la GPL3 License.
 Eres libre de usarlo, modificarlo y compartirlo bajo los términos de dicha licencia.
 
 ✍️ Proyecto creado por Luis E. Martínez (2025) como parte del desarrollo de su lector BibleTool para KOReader.
-
-
-Preguntar a ChatGPT
