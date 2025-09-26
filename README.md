@@ -8,7 +8,8 @@ al uso de toolchains de compilacion cruzada o de realizar modificaciones complej
 
 Actualmente esta siendo desarrollada como un plugin de KOReader, con miras al futuro de ser una aplicacion stand-alone bajo el framework de KOREader-base con una interfaz limpia y ligera al proposito de BibleTool.
 
-https://github.com/Lmart89/BibleTool---KOReader-plugin/blob/main/bibletool-alpha-r1.png
+<img width="600" height="800" alt="image" src="https://github.com/user-attachments/assets/bf21b1e1-471e-4e7f-979e-12a81c3772b3" />
+
 
 ## ✨ Características (versión actual)
 
